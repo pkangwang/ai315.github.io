@@ -1,0 +1,1 @@
+import{_,c as e,o as t,a2 as i}from"./chunks/framework.84TDCN6B.js";const T=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/请求报文和响应报文.md","filePath":"Linux/请求报文和响应报文.md"}'),a={name:"Linux/请求报文和响应报文.md"},l=i("",6),o=[l];function n(p,s,c,r,d,u){return t(),e("div",null,o)}const f=_(a,[["render",n]]);export{T as __pageData,f as default};

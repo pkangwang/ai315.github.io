@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as t,a2 as p}from"./chunks/framework.84TDCN6B.js";const r=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/flatpak.md","filePath":"Linux/flatpak.md"}'),l={name:"Linux/flatpak.md"},e=p("",27),i=[e];function n(o,c,d,h,u,k){return t(),s("div",null,i)}const v=a(l,[["render",n]]);export{r as __pageData,v as default};

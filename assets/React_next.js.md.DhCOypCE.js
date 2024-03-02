@@ -1,0 +1,14 @@
+import{_ as s,c as a,o as n,a2 as e}from"./chunks/framework.84TDCN6B.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"React/next.js.md","filePath":"React/next.js.md"}'),t={name:"React/next.js.md"},i=e(`<p>一个页面就导出的react组件，也可以说，一个页面就是一个js、jsx、ts、tsx文件。</p><p>每个页面都使用其文件名作为路由。</p><p>如果在pages目录下创建了demo.js，内容如下：</p><div class="language-js vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">js</span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">function</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;"> Demo</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">(){</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">    return</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> &lt;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D;">h1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">&gt;Demo Page&lt;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D;">h1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">&gt;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;">}</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;">export</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583;"> default</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8;"> Demo</span></span></code></pre></div><p>那么该页面就可以通过/about访问。</p><h2 id="动态路由" tabindex="-1">动态路由 <a class="header-anchor" href="#动态路由" aria-label="Permalink to &quot;动态路由&quot;">​</a></h2><p>用方括号封装文件夹名，</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>// pages/users/[name].js</span></span>
+<span class="line"><span> </span></span>
+<span class="line"><span>import { useRouter } from &#39;next/router&#39;</span></span>
+<span class="line"><span> </span></span>
+<span class="line"><span>export default function User() {</span></span>
+<span class="line"><span>  const router = useRouter()</span></span>
+<span class="line"><span>  const { name } = router.query</span></span>
+<span class="line"><span> </span></span>
+<span class="line"><span>  return &lt;h1&gt;hello, {name}&lt;/h1&gt;</span></span>
+<span class="line"><span>}</span></span></code></pre></div><p>这样一来，就会根据URL具体路径动态的返回页面内容。例如访问/users/zhangsan，就会返回<code>&lt;h1&gt;hello, zhangsan&lt;/h1&gt;</code>，访问/users/lisi，就会返回<code>&lt;h1&gt;hello, lisi&lt;/h1&gt;</code>。</p>`,9),p=[i];function l(h,o,r,c,d,k){return n(),a("div",null,p)}const E=s(t,[["render",l]]);export{u as __pageData,E as default};

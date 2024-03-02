@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as n,a2 as e}from"./chunks/framework.84TDCN6B.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"C++/数组和指针.md","filePath":"C++/数组和指针.md"}'),p={name:"C++/数组和指针.md"},t=e("",2),i=[t];function l(c,_,o,r,d,h){return n(),s("div",null,i)}const f=a(p,[["render",l]]);export{u as __pageData,f as default};

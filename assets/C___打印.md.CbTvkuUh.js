@@ -1,0 +1,4 @@
+import{_ as t,c as s,o as a,a2 as e}from"./chunks/framework.84TDCN6B.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"C++/打印.md","filePath":"C++/打印.md"}'),l={name:"C++/打印.md"},n=e(`<div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>cout &lt;&lt; &quot;hello,world!&quot; ;</span></span>
+<span class="line"><span>cout  &lt;&lt;  endl ;  </span></span>
+<span class="line"><span>cout &lt;&lt; endl &lt;&lt; &quot;hello,world&quot; ;</span></span>
+<span class="line"><span>cout  &lt;&lt; &quot;hello&quot;  &lt;&lt; endl &lt;&lt; &quot;world&quot; ;</span></span></code></pre></div>`,1),o=[n];function p(c,_,i,d,r,u){return a(),s("div",null,o)}const f=t(l,[["render",p]]);export{m as __pageData,f as default};

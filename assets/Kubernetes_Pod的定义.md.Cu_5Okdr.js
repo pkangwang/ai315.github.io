@@ -1,0 +1,32 @@
+import{_ as n,c as s,o as a,a2 as p}from"./chunks/framework.84TDCN6B.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Kubernetes/Pod的定义.md","filePath":"Kubernetes/Pod的定义.md"}'),e={name:"Kubernetes/Pod的定义.md"},l=p(`<p>Pod的典型定义文件如下：</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>apiVersion： v1 必选，版本号</span></span>
+<span class="line"><span>kind ：Pod</span></span>
+<span class="line"><span>metedata：</span></span>
+<span class="line"><span>  name: </span></span>
+<span class="line"><span>  namespace: </span></span>
+<span class="line"><span>  labels:</span></span>
+<span class="line"><span>    app: nginx</span></span>
+<span class="line"><span>    role: frontend</span></span>
+<span class="line"><span>spec:</span></span>
+<span class="line"><span>  initContaoners:</span></span>
+<span class="line"><span>  - command: </span></span>
+<span class="line"><span>    - sh</span></span>
+<span class="line"><span>    - -c</span></span>
+<span class="line"><span>    - echo &quot;init comtainer&quot;</span></span>
+<span class="line"><span>  contaniners: </span></span>
+<span class="line"><span>  - name: </span></span>
+<span class="line"><span>    image: </span></span>
+<span class="line"><span>    imagePilicy: </span></span>
+<span class="line"><span>    command: </span></span>
+<span class="line"><span>    - nginx</span></span>
+<span class="line"><span>    - -g</span></span>
+<span class="line"><span>    workingDir: /usr/share/nginx/html</span></span>
+<span class="line"><span>    volumeMounts:</span></span>
+<span class="line"><span>    - name: webroot</span></span>
+<span class="line"><span>      mountPath: /use/share/nginx/html</span></span>
+<span class="line"><span>    ports:</span></span>
+<span class="line"><span>    - name: http</span></span>
+<span class="line"><span>      contanierPort: 80</span></span>
+<span class="line"><span>      protocol: TCP</span></span>
+<span class="line"><span>    env:</span></span>
+<span class="line"><span>    - name: TZ</span></span>
+<span class="line"><span>      value: Asia/Shanghai</span></span></code></pre></div><ul><li>apiversion 版本</li><li>kind 类型</li><li>metadata 元数据，包括name、namespace、labels</li><li>spec 定义 containers数组、volumes数组</li></ul><p>containers的每一项定义如下：</p><ul><li>name 名字</li><li>image 镜像</li><li>command 容器启动执行的命令</li><li>workingDir 容器工作目录</li><li>volumeMounts 存储卷数组</li><li>ports 端口名称</li><li>env 环境变量</li></ul><p>volumes的定义如下：</p><ul><li>name 名称</li><li>emptyDir 挂载目录</li></ul>`,7),i=[l];function t(c,o,r,m,d,u){return a(),s("div",null,i)}const g=n(e,[["render",t]]);export{h as __pageData,g as default};

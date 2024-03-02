@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a2 as _}from"./chunks/framework.84TDCN6B.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ICV/index.md","filePath":"ICV/index.md"}'),r={name:"ICV/index.md"},p=_("",7),n=[p];function o(s,h,c,d,i,l){return a(),t("div",null,n)}const V=e(r,[["render",o]]);export{f as __pageData,V as default};

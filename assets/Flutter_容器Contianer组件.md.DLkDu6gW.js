@@ -1,0 +1,10 @@
+import{_ as n,c as s,o as a,a2 as e}from"./chunks/framework.84TDCN6B.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Flutter/容器Contianer组件.md","filePath":"Flutter/容器Contianer组件.md"}'),t={name:"Flutter/容器Contianer组件.md"},i=e(`<p><strong>Contianer组件的大小设置</strong></p><p>Contianer组件自身可以设置大小，也可以使用父组件或子组件的大小，那么当设置发生冲突时，Contianer组件大小的优先级是： 父组件 &gt;自身&gt; 子组件。分如下几种情况：</p><ul><li>当父组件、自身、子组件都设置了大小，则Contianer组件使用父组件大小。</li><li>如果父组件、自身都没有设置大小，则Contianer组件使用子组件大小。</li><li>如果父组件、子组件都没有设置大小，而Contianer组件设置了大小，则使用自身设置的大小。</li></ul><p>Container的常用属性是：</p><ul><li>width 高度</li><li>height 宽度</li><li>color 背景颜色</li><li>margin 外边距</li><li>padding 内边距</li></ul><p><strong>Container的内外边距</strong></p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>Container buildContainer(){</span></span>
+<span class="line"><span>    return Container(</span></span>
+<span class="line"><span>        margin:EdgeInsets.all(20), // 四周外边距均为20px</span></span>
+<span class="line"><span>        padding:EdgeInsets.all(20), // 四周内边距均为20px</span></span>
+<span class="line"><span>    );</span></span>
+<span class="line"><span>}</span></span></code></pre></div><p>margin和padding的值的示例如下：</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>EdgeInsets.all(14),  //上下左右</span></span>
+<span class="line"><span>EdgeInsets.only(left:22),// 单独配置某一个边</span></span>
+<span class="line"><span>EdgeInsets.symmetric(vertical:22),  // 上下间距</span></span>
+<span class="line"><span>EdgeInsets.symmetric(horizontal:22),  // 左右间距</span></span>
+<span class="line"><span>EdgeInsets.fromLTRB(10,20,30,40),  // 依次设置：左→上→右→下</span></span></code></pre></div>`,9),p=[i];function l(o,r,c,d,g,_){return a(),s("div",null,p)}const m=n(t,[["render",l]]);export{u as __pageData,m as default};

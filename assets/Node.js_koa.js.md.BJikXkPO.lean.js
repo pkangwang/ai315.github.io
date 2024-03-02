@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a2 as e}from"./chunks/framework.84TDCN6B.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Node.js/koa.js.md","filePath":"Node.js/koa.js.md"}'),p={name:"Node.js/koa.js.md"},o=e("",2),t=[o];function c(l,i,_,d,r,h){return n(),a("div",null,t)}const k=s(p,[["render",c]]);export{m as __pageData,k as default};

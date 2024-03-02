@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as t,a2 as n}from"./chunks/framework.84TDCN6B.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Java/基本数据类型.md","filePath":"Java/基本数据类型.md"}'),e={name:"Java/基本数据类型.md"},p=n("",13),i=[p];function l(o,c,d,r,g,h){return t(),a("div",null,i)}const _=s(e,[["render",l]]);export{v as __pageData,_ as default};

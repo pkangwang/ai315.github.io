@@ -1,0 +1,1 @@
+import{_ as o,c as e,o as t,a2 as a}from"./chunks/framework.84TDCN6B.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"MongoDB/index.md","filePath":"MongoDB/index.md"}'),n={name:"MongoDB/index.md"},_=a("",8),p=[_];function r(h,c,s,d,i,l){return t(),e("div",null,p)}const B=o(n,[["render",r]]);export{f as __pageData,B as default};

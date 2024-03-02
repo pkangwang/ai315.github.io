@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.84TDCN6B.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"C++/语句.md","filePath":"C++/语句.md"}'),t={name:"C++/语句.md"},p=n("",6),l=[p];function h(k,e,E,r,d,g){return a(),i("div",null,l)}const F=s(t,[["render",h]]);export{c as __pageData,F as default};

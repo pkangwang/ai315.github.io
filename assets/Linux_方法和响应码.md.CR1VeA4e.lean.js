@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a2 as i}from"./chunks/framework.84TDCN6B.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/方法和响应码.md","filePath":"Linux/方法和响应码.md"}'),l={name:"Linux/方法和响应码.md"},_=i("",6),o=[_];function r(n,s,c,d,u,p){return t(),a("div",null,o)}const m=e(l,[["render",r]]);export{x as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as t}from"./chunks/framework.84TDCN6B.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Node.js/fs模块.md","filePath":"Node.js/fs模块.md"}'),n={name:"Node.js/fs模块.md"},h=t("",31),p=[h];function l(k,e,E,d,r,g){return a(),i("div",null,p)}const c=s(n,[["render",l]]);export{y as __pageData,c as default};

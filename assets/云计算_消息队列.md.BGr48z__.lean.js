@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e,a2 as p}from"./chunks/framework.84TDCN6B.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"云计算/消息队列.md","filePath":"云计算/消息队列.md"}'),_={name:"云计算/消息队列.md"},s=p("",10),o=[s];function c(r,i,n,d,l,h){return e(),a("div",null,o)}const u=t(_,[["render",c]]);export{f as __pageData,u as default};

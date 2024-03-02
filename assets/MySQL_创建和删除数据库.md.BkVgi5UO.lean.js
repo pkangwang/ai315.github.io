@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as s,a2 as t}from"./chunks/framework.84TDCN6B.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"MySQL/创建和删除数据库.md","filePath":"MySQL/创建和删除数据库.md"}'),i={name:"MySQL/创建和删除数据库.md"},n=t("",8),p=[n];function o(c,l,d,r,h,_){return s(),e("div",null,p)}const m=a(i,[["render",o]]);export{g as __pageData,m as default};

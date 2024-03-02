@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as s,a2 as n}from"./chunks/framework.84TDCN6B.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"MongoDB/增.md","filePath":"MongoDB/增.md"}'),t={name:"MongoDB/增.md"},i=n("",9),o=[i];function p(r,l,c,d,h,g){return s(),e("div",null,o)}const m=a(t,[["render",p]]);export{_ as __pageData,m as default};

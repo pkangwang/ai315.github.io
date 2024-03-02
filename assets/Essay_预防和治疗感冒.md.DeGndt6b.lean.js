@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a2 as r}from"./chunks/framework.84TDCN6B.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Essay/预防和治疗感冒.md","filePath":"Essay/预防和治疗感冒.md"}'),o={name:"Essay/预防和治疗感冒.md"},i=r("",13),l=[i];function s(_,n,c,p,h,d){return t(),e("div",null,l)}const f=a(o,[["render",s]]);export{m as __pageData,f as default};

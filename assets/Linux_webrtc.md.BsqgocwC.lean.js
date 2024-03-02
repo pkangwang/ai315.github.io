@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as n,a2 as p}from"./chunks/framework.84TDCN6B.js";const P=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/webrtc.md","filePath":"Linux/webrtc.md"}'),e={name:"Linux/webrtc.md"},i=p("",24),l=[i];function t(c,d,r,o,h,u){return n(),s("div",null,l)}const b=a(e,[["render",t]]);export{P as __pageData,b as default};

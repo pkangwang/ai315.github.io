@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as s,a2 as t}from"./chunks/framework.84TDCN6B.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"MySQL/更新数据.md","filePath":"MySQL/更新数据.md"}'),n={name:"MySQL/更新数据.md"},_=t("",1),o=[_];function c(p,i,r,d,l,h){return s(),e("div",null,o)}const S=a(n,[["render",c]]);export{u as __pageData,S as default};

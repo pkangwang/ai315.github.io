@@ -1,0 +1,1 @@
+import{_ as t,c as d,o as r,a2 as p}from"./chunks/framework.84TDCN6B.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ICV/重要零部件.md","filePath":"ICV/重要零部件.md"}'),e={name:"ICV/重要零部件.md"},o=p("",21),l=[o];function _(i,s,a,n,c,h){return r(),d("div",null,l)}const u=t(e,[["render",_]]);export{m as __pageData,u as default};

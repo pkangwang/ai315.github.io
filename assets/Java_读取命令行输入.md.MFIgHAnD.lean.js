@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.84TDCN6B.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Java/读取命令行输入.md","filePath":"Java/读取命令行输入.md"}'),t={name:"Java/读取命令行输入.md"},h=n("",2),p=[h];function l(k,e,E,r,d,g){return a(),i("div",null,p)}const o=s(t,[["render",l]]);export{y as __pageData,o as default};

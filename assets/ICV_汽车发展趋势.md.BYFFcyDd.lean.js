@@ -1,0 +1,1 @@
+import{_ as t,c as p,o as _,a2 as e}from"./chunks/framework.84TDCN6B.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ICV/汽车发展趋势.md","filePath":"ICV/汽车发展趋势.md"}'),o={name:"ICV/汽车发展趋势.md"},s=e("",10),r=[s];function a(n,i,c,l,d,m){return _(),p("div",null,r)}const u=t(o,[["render",a]]);export{g as __pageData,u as default};

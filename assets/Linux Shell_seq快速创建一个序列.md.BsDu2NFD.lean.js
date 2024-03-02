@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.84TDCN6B.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Linux Shell/seq快速创建一个序列.md","filePath":"Linux Shell/seq快速创建一个序列.md"}'),s={name:"Linux Shell/seq快速创建一个序列.md"};function _(n,r,o,c,i,l){return a(),t("div")}const m=e(s,[["render",_]]);export{d as __pageData,m as default};

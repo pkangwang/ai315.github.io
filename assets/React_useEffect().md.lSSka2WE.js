@@ -1,0 +1,5 @@
+import{_ as e,c as s,o as a,a2 as t}from"./chunks/framework.84TDCN6B.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"React/useEffect().md","filePath":"React/useEffect().md"}'),n={name:"React/useEffect().md"},p=t(`<p>useState（）的作用是方便每次触发state变量更新函数时触发react重新渲染，简单点说，就是，每次更新变量的值带动重新渲染。</p><p>那么，还有一个需求是：每次重新执行一段或多段代码带到重新渲染，这就要用到useEffect()。这种情况叫副作用。</p><p>useEffect表示在每次渲染（包括挂载和更新）之后执行某些操作。</p><div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code"><code><span class="line"><span>useEffect(((=&gt;{</span></span>
+<span class="line"><span>    // 每次渲染时更新网页标题</span></span>
+<span class="line"><span>    document.title = &#39;更新时间：&#39;+ Date.Now()</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>})</span></span></code></pre></div>`,4),c=[p];function o(i,_,l,r,d,f){return a(),s("div",null,c)}const m=e(n,[["render",o]]);export{h as __pageData,m as default};

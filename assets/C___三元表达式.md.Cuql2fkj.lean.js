@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.84TDCN6B.js";const o=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"C++/三元表达式.md","filePath":"C++/三元表达式.md"}'),t={name:"C++/三元表达式.md"},p=n("",1),l=[p];function h(k,e,r,E,d,c){return a(),i("div",null,l)}const y=s(t,[["render",h]]);export{o as __pageData,y as default};

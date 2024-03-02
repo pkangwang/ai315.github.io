@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as _,a2 as t}from"./chunks/framework.84TDCN6B.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ICV/系统层级结构.md","filePath":"ICV/系统层级结构.md"}'),e={name:"ICV/系统层级结构.md"},a=t("",2),o=[a];function s(c,p,r,n,d,u){return _(),i("div",null,o)}const V=l(e,[["render",s]]);export{f as __pageData,V as default};

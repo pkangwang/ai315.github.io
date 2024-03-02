@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as i,a2 as n}from"./chunks/framework.84TDCN6B.js";const o=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Dart/Dart面向对象.md","filePath":"Dart/Dart面向对象.md"}'),p={name:"Dart/Dart面向对象.md"},l=n("",35),t=[l];function e(h,k,r,d,E,g){return i(),a("div",null,t)}const y=s(p,[["render",e]]);export{o as __pageData,y as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a2 as p}from"./chunks/framework.84TDCN6B.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Vue.js/index.md","filePath":"Vue.js/index.md"}'),r={name:"Vue.js/index.md"},h=p("",13),l=[h];function _(o,s,n,m,f,c){return t(),a("div",null,l)}const u=e(r,[["render",_]]);export{i as __pageData,u as default};

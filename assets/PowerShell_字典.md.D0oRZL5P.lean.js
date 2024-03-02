@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a2 as i}from"./chunks/framework.84TDCN6B.js";const E=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"PowerShell/字典.md","filePath":"PowerShell/字典.md"}'),p={name:"PowerShell/字典.md"},e=i("",7),l=[e];function t(h,c,d,k,o,r){return n(),a("div",null,l)}const _=s(p,[["render",t]]);export{E as __pageData,_ as default};

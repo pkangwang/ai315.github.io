@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as n,a2 as p}from"./chunks/framework.84TDCN6B.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/pacman.md","filePath":"Linux/pacman.md"}'),e={name:"Linux/pacman.md"},c=p("",27),i=[c];function l(t,o,r,d,h,m){return n(),s("div",null,i)}const v=a(e,[["render",l]]);export{g as __pageData,v as default};

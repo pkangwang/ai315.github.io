@@ -1,0 +1,1 @@
+import{_ as e,c as r,o,a2 as a}from"./chunks/framework.84TDCN6B.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Docker/安装docker.md","filePath":"Docker/安装docker.md"}'),t={name:"Docker/安装docker.md"},i=a("",5),c=[i];function s(d,n,l,_,p,h){return o(),r("div",null,c)}const f=e(t,[["render",s]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a2 as o}from"./chunks/framework.84TDCN6B.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ICV/智能汽车的组成.md","filePath":"ICV/智能汽车的组成.md"}'),r={name:"ICV/智能汽车的组成.md"},_=o("",8),n=[_];function s(c,i,d,h,l,p){return t(),e("div",null,n)}const u=a(r,[["render",s]]);export{f as __pageData,u as default};

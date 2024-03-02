@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as h}from"./chunks/framework.84TDCN6B.js";const F=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Vue.js/表单输入绑定.md","filePath":"Vue.js/表单输入绑定.md"}'),t={name:"Vue.js/表单输入绑定.md"},k=h("",18),n=[k];function l(p,E,e,r,d,g){return a(),i("div",null,n)}const o=s(t,[["render",l]]);export{F as __pageData,o as default};

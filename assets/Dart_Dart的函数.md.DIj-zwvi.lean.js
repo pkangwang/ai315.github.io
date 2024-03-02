@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as n,a2 as p}from"./chunks/framework.84TDCN6B.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Dart/Dart的函数.md","filePath":"Dart/Dart的函数.md"}'),e={name:"Dart/Dart的函数.md"},t=p("",38),i=[t];function l(o,c,r,d,u,h){return n(),s("div",null,i)}const b=a(e,[["render",l]]);export{v as __pageData,b as default};

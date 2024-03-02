@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.84TDCN6B.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"C++/函数.md","filePath":"C++/函数.md"}'),l={name:"C++/函数.md"},h=n("",5),t=[h];function p(k,e,d,r,E,g){return a(),i("div",null,t)}const F=s(l,[["render",p]]);export{y as __pageData,F as default};

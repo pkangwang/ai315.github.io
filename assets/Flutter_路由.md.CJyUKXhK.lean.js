@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e,a2 as s}from"./chunks/framework.84TDCN6B.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Flutter/路由.md","filePath":"Flutter/路由.md"}'),n={name:"Flutter/路由.md"},p=s("",18),o=[p];function i(l,c,d,u,r,h){return e(),t("div",null,o)}const _=a(n,[["render",i]]);export{v as __pageData,_ as default};

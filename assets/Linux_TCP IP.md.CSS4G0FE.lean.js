@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as P,a2 as e}from"./chunks/framework.84TDCN6B.js";const s=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/TCP IP.md","filePath":"Linux/TCP IP.md"}'),a={name:"Linux/TCP IP.md"},t=e("",23),o=[t];function p(r,C,I,T,n,u){return P(),i("div",null,o)}const _=l(a,[["render",p]]);export{s as __pageData,_ as default};

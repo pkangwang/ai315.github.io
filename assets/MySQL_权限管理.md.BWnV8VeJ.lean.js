@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a2 as r}from"./chunks/framework.84TDCN6B.js";const f=JSON.parse('{"title":"自己自己自己自己自己","description":"","frontmatter":{},"headers":[],"relativePath":"MySQL/权限管理.md","filePath":"MySQL/权限管理.md"}'),o={name:"MySQL/权限管理.md"},_=r("",4),i=[_];function s(l,n,c,d,h,u){return t(),e("div",null,i)}const p=a(o,[["render",s]]);export{f as __pageData,p as default};

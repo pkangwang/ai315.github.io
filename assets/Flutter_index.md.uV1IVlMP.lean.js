@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a2 as r}from"./chunks/framework.84TDCN6B.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Flutter/index.md","filePath":"Flutter/index.md"}'),l={name:"Flutter/index.md"},p=r("",13),h=[p];function n(o,_,f,u,m,i){return a(),e("div",null,h)}const s=t(l,[["render",n]]);export{d as __pageData,s as default};
