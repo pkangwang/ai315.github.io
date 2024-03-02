@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as r,a2 as e}from"./chunks/framework.84TDCN6B.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"技术书目录/实战AI大模型.md","filePath":"技术书目录/实战AI大模型.md"}'),t={name:"技术书目录/实战AI大模型.md"},a=e("",1),T=[a];function o(_,s,u,n,c,P){return r(),i("div",null,T)}const A=l(t,[["render",o]]);export{f as __pageData,A as default};

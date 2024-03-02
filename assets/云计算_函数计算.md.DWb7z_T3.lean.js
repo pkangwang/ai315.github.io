@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.84TDCN6B.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"云计算/函数计算.md","filePath":"云计算/函数计算.md"}'),t={name:"云计算/函数计算.md"},h=n("",44),l=[h];function e(p,k,d,r,o,E){return a(),i("div",null,l)}const c=s(t,[["render",e]]);export{y as __pageData,c as default};
