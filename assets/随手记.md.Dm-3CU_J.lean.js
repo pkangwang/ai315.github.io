@@ -1,0 +1,1 @@
+import{_ as a,c as l,o as i,a2 as e}from"./chunks/framework.84TDCN6B.js";const m=JSON.parse('{"title":"深度使用manjaro kde","description":"","frontmatter":{},"headers":[],"relativePath":"随手记.md","filePath":"随手记.md"}'),n={name:"随手记.md"},s=e("",226),p=[s];function t(o,r,h,u,d,c){return i(),l("div",null,p)}const k=a(n,[["render",t]]);export{m as __pageData,k as default};
