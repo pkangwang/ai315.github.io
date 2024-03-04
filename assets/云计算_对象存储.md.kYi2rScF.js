@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,m as o}from"./chunks/framework.84TDCN6B.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"云计算/对象存储.md","filePath":"云计算/对象存储.md"}'),s={name:"云计算/对象存储.md"},n=o("p",null,"参考文档：",-1),r=[n];function _(c,d,i,p,l,m){return a(),t("div",null,r)}const u=e(s,[["render",_]]);export{h as __pageData,u as default};
