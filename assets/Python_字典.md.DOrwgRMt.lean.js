@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.84TDCN6B.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Python/字典.md","filePath":"Python/字典.md"}'),t={name:"Python/字典.md"},p=n("",16),h=[p];function l(k,e,E,d,r,g){return a(),i("div",null,h)}const o=s(t,[["render",l]]);export{y as __pageData,o as default};

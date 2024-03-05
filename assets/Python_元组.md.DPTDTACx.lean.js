@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as p,a2 as e}from"./chunks/framework.84TDCN6B.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Python/元组.md","filePath":"Python/元组.md"}'),n={name:"Python/元组.md"},t=e("",22),l=[t];function i(o,c,d,r,h,u){return p(),a("div",null,l)}const b=s(n,[["render",i]]);export{v as __pageData,b as default};

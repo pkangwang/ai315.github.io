@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as e,a2 as t}from"./chunks/framework.84TDCN6B.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Python/匿名函数.md","filePath":"Python/匿名函数.md"}'),n={name:"Python/匿名函数.md"},p=t("",5),o=[p];function c(i,l,d,_,r,h){return e(),s("div",null,o)}const b=a(n,[["render",c]]);export{u as __pageData,b as default};
