@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a2 as p}from"./chunks/framework.84TDCN6B.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/定位.md","filePath":"CSS/定位.md"}'),l={name:"CSS/定位.md"},t=p("",24),i=[t];function e(c,o,d,g,r,u){return a(),n("div",null,i)}const b=s(l,[["render",e]]);export{v as __pageData,b as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a2 as p}from"./chunks/framework.84TDCN6B.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"相对定位.md","filePath":"相对定位.md"}'),t={name:"相对定位.md"},l=p("",6),i=[l];function e(o,c,d,_,r,v){return a(),n("div",null,i)}const h=s(t,[["render",e]]);export{u as __pageData,h as default};
