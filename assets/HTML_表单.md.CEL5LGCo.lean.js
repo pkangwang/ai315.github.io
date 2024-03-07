@@ -1,0 +1,1 @@
+import{_ as i,c as s,o as t,a2 as a}from"./chunks/framework.84TDCN6B.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"HTML/表单.md","filePath":"HTML/表单.md"}'),e={name:"HTML/表单.md"},l=a("",13),p=[l];function n(o,h,r,k,d,c){return t(),s("div",null,p)}const m=i(e,[["render",n]]);export{g as __pageData,m as default};

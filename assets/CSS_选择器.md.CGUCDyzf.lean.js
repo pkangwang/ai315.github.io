@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as e,a2 as o}from"./chunks/framework.84TDCN6B.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/选择器.md","filePath":"CSS/选择器.md"}'),d={name:"CSS/选择器.md"},c=o("",21),t=[c];function a(s,n,p,r,h,u){return e(),i("div",null,t)}const k=l(d,[["render",a]]);export{v as __pageData,k as default};
