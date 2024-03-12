@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,m as n}from"./chunks/framework.84TDCN6B.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"魔搭/index.md","filePath":"魔搭/index.md"}'),o={name:"魔搭/index.md"},s=n("p",null,"【魔搭】",-1),r=[s];function c(d,i,_,p,l,m){return a(),t("div",null,r)}const h=e(o,[["render",c]]);export{x as __pageData,h as default};

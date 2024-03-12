@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a2 as t}from"./chunks/framework.84TDCN6B.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Vue.js/绑定元素属性.md","filePath":"Vue.js/绑定元素属性.md"}'),n={name:"Vue.js/绑定元素属性.md"},p=t("",6),h=[p];function l(k,e,E,d,g,r){return a(),i("div",null,h)}const o=s(n,[["render",l]]);export{c as __pageData,o as default};

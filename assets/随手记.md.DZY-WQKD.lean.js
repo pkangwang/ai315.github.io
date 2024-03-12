@@ -1,0 +1,1 @@
+import{_ as a,c as l,o as i,a2 as e}from"./chunks/framework.84TDCN6B.js";const m=JSON.parse('{"title":"随手记","description":"","frontmatter":{},"headers":[],"relativePath":"随手记.md","filePath":"随手记.md"}'),n={name:"随手记.md"},t=e("",301),s=[t];function p(o,r,h,c,d,u){return i(),l("div",null,s)}const k=a(n,[["render",p]]);export{m as __pageData,k as default};
