@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.84TDCN6B.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Dart/Dart的继承.md","filePath":"Dart/Dart的继承.md"}'),h={name:"Dart/Dart的继承.md"},p=n("",9),k=[p];function l(t,e,E,d,r,g){return a(),i("div",null,k)}const C=s(h,[["render",l]]);export{y as __pageData,C as default};

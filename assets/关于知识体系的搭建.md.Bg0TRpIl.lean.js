@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as e,a2 as a}from"./chunks/framework.84TDCN6B.js";const m=JSON.parse('{"title":"关于知识体系的搭建","description":"","frontmatter":{},"headers":[],"relativePath":"关于知识体系的搭建.md","filePath":"关于知识体系的搭建.md"}'),t={name:"关于知识体系的搭建.md"},n=a("",11),r=[n];function o(u,c,s,d,h,_){return e(),i("div",null,r)}const S=l(t,[["render",o]]);export{m as __pageData,S as default};
