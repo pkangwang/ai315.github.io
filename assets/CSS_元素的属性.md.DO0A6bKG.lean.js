@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.84TDCN6B.js";const o=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/元素的属性.md","filePath":"CSS/元素的属性.md"}'),t={name:"CSS/元素的属性.md"},h=n("",6),l=[h];function p(k,e,E,r,d,g){return a(),i("div",null,l)}const y=s(t,[["render",p]]);export{o as __pageData,y as default};

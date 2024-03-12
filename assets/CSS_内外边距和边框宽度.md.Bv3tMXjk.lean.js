@@ -1,0 +1,1 @@
+import{_,c as e,o as t,a2 as i}from"./chunks/framework.84TDCN6B.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/内外边距和边框宽度.md","filePath":"CSS/内外边距和边框宽度.md"}'),l={name:"CSS/内外边距和边框宽度.md"},a=i("",4),o=[a];function r(s,n,c,d,p,S){return t(),e("div",null,o)}const f=_(l,[["render",r]]);export{u as __pageData,f as default};

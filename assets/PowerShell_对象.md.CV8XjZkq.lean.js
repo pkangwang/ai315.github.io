@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as e,a2 as i}from"./chunks/framework.84TDCN6B.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"PowerShell/对象.md","filePath":"PowerShell/对象.md"}'),t={name:"PowerShell/对象.md"},p=i("",9),l=[p];function h(n,o,c,r,d,k){return e(),a("div",null,l)}const u=s(t,[["render",h]]);export{_ as __pageData,u as default};

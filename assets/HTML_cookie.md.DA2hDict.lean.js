@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,a2 as t}from"./chunks/framework.84TDCN6B.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"HTML/cookie.md","filePath":"HTML/cookie.md"}'),i={name:"HTML/cookie.md"},s=t("",7),c=[s];function n(p,l,d,r,h,k){return o(),a("div",null,c)}const m=e(i,[["render",n]]);export{_ as __pageData,m as default};

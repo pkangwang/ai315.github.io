@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as d,a2 as c}from"./chunks/framework.84TDCN6B.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Linux/OAuth.md","filePath":"Linux/OAuth.md"}'),o={name:"Linux/OAuth.md"},i=c("",21),a=[i];function s(r,n,h,p,l,u){return d(),e("div",null,a)}const k=t(o,[["render",s]]);export{b as __pageData,k as default};

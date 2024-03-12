@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as i,a2 as t}from"./chunks/framework.84TDCN6B.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/代码块.md","filePath":"CSS/代码块.md"}'),n={name:"CSS/代码块.md"},e=t("",6),p=[e];function l(h,o,c,d,k,r){return i(),a("div",null,p)}const g=s(n,[["render",l]]);export{_ as __pageData,g as default};

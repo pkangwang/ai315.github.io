@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as t}from"./chunks/framework.84TDCN6B.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/浮动.md","filePath":"CSS/浮动.md"}'),l={name:"CSS/浮动.md"},n=t("",4),e=[n];function p(h,k,E,o,r,d){return a(),i("div",null,e)}const _=s(l,[["render",p]]);export{g as __pageData,_ as default};

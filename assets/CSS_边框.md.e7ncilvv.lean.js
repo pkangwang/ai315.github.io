@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as l}from"./chunks/framework.84TDCN6B.js";const E=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/边框.md","filePath":"CSS/边框.md"}'),t={name:"CSS/边框.md"},e=l("",39),n=[e];function p(h,r,d,o,k,c){return a(),i("div",null,n)}const b=s(t,[["render",p]]);export{E as __pageData,b as default};

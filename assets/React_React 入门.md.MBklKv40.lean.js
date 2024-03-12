@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as t,a2 as e}from"./chunks/framework.84TDCN6B.js";const F=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"React/React 入门.md","filePath":"React/React 入门.md"}'),i={name:"React/React 入门.md"},n=e("",2),p=[n];function c(l,h,r,o,_,d){return t(),a("div",null,p)}const g=s(i,[["render",c]]);export{F as __pageData,g as default};

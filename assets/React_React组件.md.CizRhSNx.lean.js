@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as t}from"./chunks/framework.84TDCN6B.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"React/React组件.md","filePath":"React/React组件.md"}'),l={name:"React/React组件.md"},e=t("",18),p=[e];function n(h,k,c,r,d,E){return a(),i("div",null,p)}const y=s(l,[["render",n]]);export{g as __pageData,y as default};

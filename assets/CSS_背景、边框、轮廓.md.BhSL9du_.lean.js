@@ -1,1 +1,0 @@
-import{_ as i,c as l,o,a2 as t}from"./chunks/framework.84TDCN6B.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/背景、边框、轮廓.md","filePath":"CSS/背景、边框、轮廓.md"}'),e={name:"CSS/背景、边框、轮廓.md"},r=t("",11),a=[r];function d(n,c,s,b,u,_){return o(),l("div",null,a)}const m=i(e,[["render",d]]);export{p as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a2 as p}from"./chunks/framework.84TDCN6B.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/阴影.md","filePath":"CSS/阴影.md"}'),e={name:"CSS/阴影.md"},t=p("",4),l=[t];function i(o,c,d,_,r,h){return n(),a("div",null,l)}const m=s(e,[["render",i]]);export{u as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a2 as s}from"./chunks/framework.84TDCN6B.js";const S=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"TailwindCSS/背景.md","filePath":"TailwindCSS/背景.md"}'),n={name:"TailwindCSS/背景.md"},i=s("",2),o=[i];function _(c,p,d,l,r,h){return t(),a("div",null,o)}const u=e(n,[["render",_]]);export{S as __pageData,u as default};

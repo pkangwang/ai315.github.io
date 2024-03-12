@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.84TDCN6B.js";const o=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Node.js/读取用户输入.md","filePath":"Node.js/读取用户输入.md"}'),h={name:"Node.js/读取用户输入.md"},t=n("",4),k=[t];function l(p,e,E,r,d,g){return a(),i("div",null,k)}const F=s(h,[["render",l]]);export{o as __pageData,F as default};
